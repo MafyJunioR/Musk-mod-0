@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-archivo = r'C:\Users\porcu\Desktop\python\Espacio de trabajo\EJERCICIOS\MODULO 5\Modulo5_company_sales_data-221102-123259.csv'
+archivo = r'Espacio_de_trabajo\EJERCICIOS\MODULO 5\Modulo5_company_sales_data-221102-123259.csv'
 
 plt.title('Sales data')
 plt.xlabel('Profit en dolares')
