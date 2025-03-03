@@ -1,0 +1,24 @@
+Suma de dígitos:
+Solicita al usuario ingresar un número entero y utiliza un bucle while para calcular la suma de sus dígitos.
+
+Contador de cifras:
+Pide al usuario que ingrese un número entero y utiliza un bucle while para contar la cantidad de cifras en ese número.
+
+Tabla de multiplicar:
+Solicita al usuario ingresar un número y utiliza un bucle while para imprimir la tabla de multiplicar de ese número.
+
+Número inverso:
+Pide al usuario que ingrese un número entero y utiliza un bucle while para imprimir el número en orden inverso.
+
+'''Solicita al usuario ingresar un límite superior. Utiliza un bucle `while` para calcular la suma de los números del 1 al límite ingresado.''',
+
+'''Solicita al usuario ingresar un número entero y utiliza un bucle `while` para contar la cantidad de dígitos en ese número.''',
+
+
+'''Solicita al usuario ingresar un número entero positivo e utiliza un bucle `while` para calcular su factorial.''',
+
+'''Solicita al usuario ingresar un número entero y utiliza un bucle `while` para imprimir todos los números pares desde 2 hasta ese número.''',
+
+'''Solicita al usuario ingresar un número entero y utiliza un bucle `while` para imprimir todos los números impares desde 1 hasta ese número.''',
+
+'''Solicita al usuario ingresar un número entero y utiliza un bucle `while` para imprimir una cuenta regresiva desde ese número hasta 1.'''

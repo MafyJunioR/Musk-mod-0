@@ -1,0 +1,32 @@
+¡Claro! Aquí tienes algunos ejercicios para practicar bucles en Python:
+
+### Ejercicio 1: Suma de Números Pares
+Escribe un programa que solicite al usuario ingresar un número entero positivo `n`. Luego, utiliza un bucle para calcular la suma de todos los números pares desde 2 hasta `n` (incluyendo `n`). Muestra el resultado.
+
+### Ejercicio 2: Contador de Vocales
+Escribe un programa que tome una cadena de texto como entrada del usuario y use un bucle para contar cuántas vocales (a, e, i, o, u) hay en la cadena. Muestra el conteo para cada vocal.
+
+### Ejercicio 3: Tabla de Multiplicar
+Escribe un programa que solicite al usuario ingresar un número entero. Luego, usa un bucle `for` para imprimir la tabla de multiplicar de ese número desde 1 hasta 10.
+
+### Ejercicio 4: Números Primos
+Escribe un programa que solicite al usuario ingresar un número entero positivo `n`. Luego, utiliza un bucle para determinar si `n` es un número primo o no. Muestra el resultado.
+
+### Ejercicio 5: Factorial
+Escribe un programa que solicite al usuario ingresar un número entero `n` y utilice un bucle para calcular el factorial de `n` (el producto de todos los enteros positivos hasta `n`). Muestra el resultado.
+
+### Ejercicio 6: Patrón de Números
+Escribe un programa que tome un número entero `n` como entrada del usuario y utilice un bucle para imprimir un patrón de números en forma de triángulo. Por ejemplo, si el usuario ingresa 5, la salida podría verse así:
+
+```
+1
+22
+333
+4444
+55555
+```
+
+### Ejercicio 7: Suma de Dígitos
+Escribe un programa que solicite al usuario ingresar un número entero y use un bucle para calcular la suma de sus dígitos. Muestra el resultado.
+
+Estos ejercicios deberían proporcionarte práctica en la implementación y comprensión de bucles en Python. ¡Espero que te resulten útiles para tu aprendizaje!

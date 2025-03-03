@@ -1,0 +1,23 @@
+¡Por supuesto! Aquí tienes algunos ejercicios muy sencillos para practicar el uso del bucle `while`:
+
+1. **Contador hasta 5:**
+   Escribe un programa que imprima los números del 1 al 5 usando un bucle `while`.
+
+2. **Cuenta regresiva desde 10:**
+   Escribe un programa que imprima una cuenta regresiva desde 10 hasta 1 utilizando un bucle `while`.
+
+3. **Cuadrados perfectos:**
+   Solicita al usuario ingresar un número entero positivo. Luego, utiliza un bucle `while` para imprimir los cuadrados perfectos (números que son el resultado de elevar al cuadrado un número entero) hasta llegar al número ingresado.
+
+4. **Suma hasta un límite:**
+   Solicita al usuario ingresar un límite superior. Utiliza un bucle `while` para calcular la suma de los números del 1 al límite ingresado.
+
+5. **Solicita al usuario un número entero positivo e imprime los números pares desde 2 hasta ese número.**
+
+6. **Pide al usuario que ingrese un número y utiliza un bucle while para calcular el factorial de ese número.**
+
+7.  **Solicita al usuario un límite superior y utiliza un bucle while para imprimir la serie de Fibonacci hasta ese límite.**
+
+8.  **Pídele al usuario que introduzca un número y utiliza un bucle while para imprimir todos los divisores de ese número.**
+
+9. **Solicita al usuario un número entero positivo y utiliza un bucle while para imprimir los primeros N números primos.**

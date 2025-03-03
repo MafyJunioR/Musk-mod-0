@@ -1,0 +1,36 @@
+Imprimir números del 1 al 5:
+Utiliza un bucle for para imprimir los números del 1 al 'n' en la consola.
+
+Suma de números pares:
+Calcula la suma de los números pares del 1 al 'n' utilizando un bucle for.
+
+Imprimir elementos de una lista:
+Crea una lista de frutas (manzana, banana, naranja, etc.) y utiliza un bucle for para imprimir cada elemento de la lista.
+
+Tabla de multiplicar:
+Pide al usuario que ingrese un número e imprime la tabla de multiplicar del 1 al 10 para ese número.
+
+Contar letras en una palabra:
+Solicita al usuario que ingrese una palabra y utiliza un bucle for para contar y mostrar la cantidad de letras en esa palabra.
+
+Imprimir números pares en un rango:
+Pide al usuario que ingrese un número y utiliza un bucle for para imprimir todos los números pares desde 0 hasta ese número.
+
+Calcular factorial:
+Pide al usuario que ingrese un número y calcula su factorial utilizando un bucle for.
+
+Imprimir patrón de asteriscos:
+Utiliza un bucle for para imprimir el siguiente patrón de asteriscos:
+
+markdown
+Copy code
+*
+**
+***
+****
+***** 
+Sumar elementos de una lista:
+Crea una lista de números y utiliza un bucle for para calcular la suma de todos los elementos de la lista.
+
+Imprimir números en reversa:
+Pide al usuario que ingrese un número e imprime los números desde ese número hasta 1 en orden descendente utilizando un bucle for.

@@ -1,0 +1,33 @@
+
+
+1. **Número positivo o negativo:**
+   Solicita al usuario que ingrese un número y muestra un mensaje indicando si es positivo o negativo.
+
+2. **Día de la semana:**
+   Pide al usuario que ingrese un número del 1 al 7 y muestra el día de la semana correspondiente (1 para lunes, 2 para martes, etc.).
+
+3. **Calculadora simple:**
+   Crea un programa que solicite dos números y una operación (+, -, *, /) al usuario. Luego, realiza la operación y muestra el resultado.
+
+4. **Comparación de cadenas:**
+   Pide al usuario que ingrese dos cadenas y verifica si son iguales. Muestra un mensaje indicando si son iguales o diferentes.
+
+5. **Verificación de edad:**
+   Solicita al usuario que ingrese su edad y verifica si es mayor de edad (18 años o más) o menor de edad.
+
+6. **Conversor de temperaturas:**
+   Crea un programa que convierta la temperatura de grados Celsius a Fahrenheit. Pide al usuario que ingrese la temperatura en Celsius y muestra el resultado en Fahrenheit.
+
+7. **Número par o impar:**
+   Solicita al usuario que ingrese un número entero y determina si es par o impar.
+
+8. **Mayor de tres números:**
+   Pide al usuario que ingrese tres números y determina cuál es el mayor.
+
+9. **Validación de contraseña:**
+   Crea un programa que solicite al usuario que ingrese una contraseña. Verifica si la contraseña cumple con ciertos criterios (por ejemplo, longitud mínima) y muestra un mensaje de validación.
+
+10. **Categorización de edades:**
+    Pide al usuario que ingrese su edad y clasifica en diferentes categorías (niño, adolescente, adulto) según rangos de edad.
+
+Estos enunciados te ofrecen la base para crear tus propios ejercicios. Puedes personalizarlos según tus preferencias y complejidad deseada. ¡Diviértete programando!
